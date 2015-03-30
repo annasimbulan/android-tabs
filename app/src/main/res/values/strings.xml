@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Navigation Tabs</string>
+
+    <string name="google_maps_key">AIzaSyCCiIqy-pLYLB8RZSEPT-n8BDWM7-KpwOc</string>
+
+    <string name="tab_map_title">Map</string>
+    <string name="tab_list_title">List</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
